@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Kivutar.github.com/blog/archives/</loc>
-        <lastmod>2012-10-25T11:54:24+02:00</lastmod>
+        <loc>http://kivutar.github.com/blog/2012/10/25/polka-ported-to-perl6/</loc>
+        <lastmod>2012-10-25T17:20:26+02:00</lastmod>
     </url>
     <url>
-        <loc>http://Kivutar.github.com/</loc>
-        <lastmod>2012-10-25T11:54:24+02:00</lastmod>
+        <loc>http://kivutar.github.com/blog/archives/</loc>
+        <lastmod>2012-10-25T17:20:26+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kivutar.github.com/</loc>
+        <lastmod>2012-10-25T17:20:26+02:00</lastmod>
     </url>
 </urlset>
